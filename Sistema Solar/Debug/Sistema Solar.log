@@ -1,0 +1,56 @@
+﻿  Evaluacion.cpp
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(179,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(186,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(187,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(188,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(189,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(190,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(191,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(192,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(180,11): warning C4101: 'cadena': variable local sin referencia
+  Halley.cpp
+  Index.cpp
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(179,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(186,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(187,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(188,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(189,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(190,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(191,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(192,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(180,11): warning C4101: 'cadena': variable local sin referencia
+  Interfaz0.cpp
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(179,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(186,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(187,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(188,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(189,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(190,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(191,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(192,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(180,11): warning C4101: 'cadena': variable local sin referencia
+  Jupiter.cpp
+  Luna.cpp
+  Marte.cpp
+  Mercurio.cpp
+  Mostrar.cpp
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(179,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(186,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(187,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(188,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(189,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(190,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(191,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(192,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Sistema Solar\Mostrar.h(180,11): warning C4101: 'cadena': variable local sin referencia
+  Neptuno.cpp
+  Saturno.cpp
+  SistemaSolarDef.cpp
+  Sol.cpp
+  Tierra.cpp
+  Urano.cpp
+  Venus.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
+  Evaluacion.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Sistema Solar.vcxproj -> D:\UNIVERSIDAD MARIANO GALVEZ\SEMESTRE II\ALGORITMOS\PROYECTO FINAL ALGORITMOS\Sistema Solar\Debug\Sistema Solar.exe

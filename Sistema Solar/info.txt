@@ -1,0 +1,11 @@
+
+;;;;;;A
+Ever;Ramirez;sexto;a;15;8;A
+;;;;;8;A
+;;;;;788;A
+fgsd;dfsgs;fdsg;ss;15;;A
+Juan;Ramirez Quic;Quinto;A;20;88;A
+Ever;Ramirez Quic;Quinto;A;15;10;A
+Ever;Ramirez;Quinto;A;21;10;A
+Ever Jose;Ramirez Quic;Sexto;A;22;10;A
+abc;saturno;quinto;B;5;10;A
